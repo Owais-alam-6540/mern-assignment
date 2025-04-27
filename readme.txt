@@ -3,7 +3,7 @@ MERN Stack Assignment: Patient Registration
 Full Assignment:-
 
 Github URL:-
- https://github.com/AmmarKotwal/PatientsRegistrationsApp.git
+ https://github.com/Owais-alam-6540/mern-assignment.git
 
 How To Open:-
 
