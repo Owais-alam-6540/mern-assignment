@@ -19,7 +19,6 @@ let user_col=mongo.Schema({
     },
     address:{
         type:String,
-        required:true
     },
     created_at:{
         type:Date,
